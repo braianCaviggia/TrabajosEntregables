@@ -1,2 +1,2 @@
 # trabajosEntregables
-Trabajos para entregar 
+Ejercicios obligatorios de programacion entregables
